@@ -1,0 +1,14 @@
+## Interface: 20504
+## Title: BTEX 2.5.4 by |cFFFF8080 Zetaprime82, originally from Tiggy|r
+## Title-frFR: BTEX 2.5.4 par |cFFFF8080 Zetaprime82, à l'origine à partir de Tiggy|r
+## Title: BTEX |cFFFF8080 BCC v.2.5.4 |r
+## Version: 2.5.4
+## Author: Zetaprime82
+## Former Author: Tiggy, Twistedfury
+## Notes: A lightweight addon that provide a customisable background texture at the bottom of the screen
+## DefaultState: Enabled
+## X-Category: Interface Enhancements
+## X-Website: http://wow.curseforge.com/addons/btex/
+## SavedVariablesPerCharacter:TEX_CHOICE,TEX_HEIGHT,UI_WIDTH,TEX_ALPHA,TEX_WIDTH,TEX_X,TEX_Y,TEX_STRATA,TEX_VERTEX_R,TEX_VERTEX_G,TEX_VERTEX_B,TEX_VIEWPORT_BL,TEX_VIEWPORT_BR,TEX_VIEWPORT_TL,TEX_VIEWPORT_TR,TEX_CHAT
+Localisation.lua
+Btex.lua
