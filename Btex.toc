@@ -4,11 +4,15 @@
 ## Title: BTEX |cFFFF8080 BCC v.3.0.0 |r
 ## Version: 3.0.0
 ## Author: Zetaprime82
-## Former Author: Tiggy, Twistedfury
+## X-Author: Tiggy, Twistedfury
 ## Notes: A lightweight addon that provide a customisable background texture at the bottom of the screen
 ## DefaultState: Enabled
 ## X-Category: Interface Enhancements
 ## X-Website: http://wow.curseforge.com/addons/btex/
+## X-Website: https://addons.wago.io/addons/btex
+## X-Curse-Project-ID: 5222
+## X-Wago-ID: RaN0JMKj
 ## SavedVariablesPerCharacter:TEX_CHOICE,TEX_HEIGHT,UI_WIDTH,TEX_ALPHA,TEX_WIDTH,TEX_X,TEX_Y,TEX_STRATA,TEX_VERTEX_R,TEX_VERTEX_G,TEX_VERTEX_B,TEX_VIEWPORT_BL,TEX_VIEWPORT_BR,TEX_VIEWPORT_TL,TEX_VIEWPORT_TR,TEX_CHAT
+
 Localisation.lua
 Btex.lua
