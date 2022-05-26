@@ -1,6 +1,12 @@
 *********************
 * Version History : *
 *********************
+v9.5 1 June 2022 
+ - TOC bump for patch 9.2.5
+
+v1.14.3 03 May 2022
+ - Classic era release
+
 v2.5.4 03 May 2022 
  - BCC TOC bump
 
