@@ -1,7 +1,7 @@
 ## Interface: 30400
 ## Title: BTEX 3.0 by |cFFFF8080 Zetaprime82, originally from Tiggy|r
 ## Title-frFR: BTEX 3.0 par |cFFFF8080 Zetaprime82, à l'origine à partir de Tiggy|r
-## Title: BTEX |cFFFF8080 BCC v.3.0 |r
+## Title: BTEX |cFFFF8080 WOTLK v.3.0 |r
 ## Version: 3.0 (WoW 3.4.0)
 ## Author: Zetaprime82
 ## X-Author: Tiggy, Twistedfury
