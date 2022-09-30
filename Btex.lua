@@ -1158,9 +1158,9 @@ PanelGridConfigFrame.btnCheckGrid:SetDisabledCheckedTexture("Interface\\Buttons\
 PanelGridConfigFrame.btnCheckGrid:SetCheckedTexture("Interface\\Buttons\\UI-CheckBox-Check");
 PanelGridConfigFrame.btnCheckGrid:SetScript("OnClick", CheckButton_OnClick);
 PanelGridConfigFrame.btnCheckGridText = PanelGridConfigFrame:CreateFontString(nil,"ARTWORK");
-PanelGridConfigFrame.btnCheckGridText:SetFont("Interface\\AddOns\\CABSkin\\CABSkin.ttf", 10, "");
+PanelGridConfigFrame.btnCheckGridText:SetFont("Interface\\AddOns\\Btex\\Btex.ttf", 10, "");
 PanelGridConfigFrame.btnCheckGridText:SetPoint("TOPLEFT",30,-10);
-PanelGridConfigFrame.btnCheckGridText:SetText(CABSkinSHOWGRID);
+PanelGridConfigFrame.btnCheckGridText:SetText(BtexSHOWGRID);
 
 function BtexDisplayGrid()
 	local BtexGridBoxSize = PanelGridConfigFrame.Size:GetNumber();
