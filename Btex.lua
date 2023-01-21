@@ -32,7 +32,7 @@ local texture4 = BtexMainFrame4:CreateTexture(nil,"BACKGROUND");
 
 --font button
 local BtexFont = CreateFont("Btest");
-BtexFont:SetFont("Interface\\AddOns\\Btex\\Btex.ttf", 9,"BOLD");
+BtexFont:SetFont("Interface\\AddOns\\Btex\\Btex.ttf", 9,"");
 
 -- Viewport Woldframe
 function BtexViewport()
