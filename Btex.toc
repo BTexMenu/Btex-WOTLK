@@ -1,7 +1,7 @@
 ## Interface: 30403
-## Title: BTEX 3.4 by |cFFFF8080 Zetaprime82, originally from Tiggy|r
-## Title-frFR: BTEX 3.4 par |cFFFF8080 Zetaprime82, à l'origine à partir de Tiggy|r
-## Title: BTEX |cFFFF8080 WOTLK v.3.4|r
+## Title: BTEX 3.4 by |c00bfffff Zetaprime82, originally from Tiggy|r
+## Title-frFR: BTEX 3.4 par |c00bfffff Zetaprime82, à l'origine à partir de Tiggy|r
+## Title: BTEX |c00bfffff WOTLK v.3.4|r
 ## Version: 3.4 (WoW 3.4.3)
 ## Author: Zetaprime82
 ## X-Author: Tiggy, Twistedfury
