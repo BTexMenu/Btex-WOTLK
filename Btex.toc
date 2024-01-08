@@ -1,8 +1,8 @@
-## Interface: 30402
-## Title: BTEX 3.3 by |cFFFF8080 Zetaprime82, originally from Tiggy|r
-## Title-frFR: BTEX 3.3 par |cFFFF8080 Zetaprime82, à l'origine à partir de Tiggy|r
-## Title: BTEX |cFFFF8080 WOTLK v.3.3 |r
-## Version: 3.3 (WoW 3.4.2)
+## Interface: 30403
+## Title: BTEX 3.4 by |cFFFF8080 Zetaprime82, originally from Tiggy|r
+## Title-frFR: BTEX 3.4 par |cFFFF8080 Zetaprime82, à l'origine à partir de Tiggy|r
+## Title: BTEX |cFFFF8080 WOTLK v.3.4|r
+## Version: 3.4 (WoW 3.4.3)
 ## Author: Zetaprime82
 ## X-Author: Tiggy, Twistedfury
 ## Notes: A lightweight addon that provide a customisable background texture at the bottom of the screen
